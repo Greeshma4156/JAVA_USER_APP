@@ -1,0 +1,5 @@
+node_modules
+jdk17-extracted
+maven-extracted
+mongodb-data
+*.zip
