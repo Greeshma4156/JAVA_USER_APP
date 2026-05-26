@@ -1,0 +1,15 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/resources/archetype-resources/pom.xml
+!**/src/test/resources/projects/basic/archetype.properties
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+*.ipr
+.mvn/
+mvnw
+mvnw.cmd
+.DS_Store
